@@ -10,4 +10,4 @@
 # Code:
 import send_email_new_alikushbaev_project
 # Next:
-send_email_new_alikushbaev_project.send_email(message,copid_pasword,your account,to email)
+send_email_new_alikushbaev_project.send_email(message,copid_pasword,your account,to email,subject)
