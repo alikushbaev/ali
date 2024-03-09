@@ -6,13 +6,13 @@
 # print(call.sid)
 import smtplib
 from email.mime.text import MIMEText
-def send_email(message,password,sender,to):
+def send_email(message,password,sender,to,subject):
     server = smtplib.SMTP("smtp.gmail.com",587)
     server.starttls()
     try:
         server.login(sender,password)
         msg = MIMEText(message)
-        msg["Subject"] = "Code"
+        msg["Subject"] = subject
         msg["To"] = to
         server.sendmail(sender,to,msg.as_string())
         print(f"send successful")
