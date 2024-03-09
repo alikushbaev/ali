@@ -9,4 +9,5 @@
 ![img](https://raw.githubusercontent.com/alikushbaev/ali/main/6.png)
 # Code:
 import send_email_new_alikushbaev_project
+# Next:
 send_email_new_alikushbaev_project.send_email(message,copid_pasword,your account,to email)
