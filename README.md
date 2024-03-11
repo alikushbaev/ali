@@ -2,12 +2,14 @@
 # send email
 # set by and by
 ![img](https://i.ibb.co/XW67rFf/1.png)
-![img](https://raw.githubusercontent.com/alikushbaev/ali/main/2.png)
-![img](https://raw.githubusercontent.com/alikushbaev/ali/main/3.png)
-![img](https://raw.githubusercontent.com/alikushbaev/ali/main/4.png)
-![img](https://raw.githubusercontent.com/alikushbaev/ali/main/5.png)
-![img](https://raw.githubusercontent.com/alikushbaev/ali/main/6.png)
-# Code:
-import send_email_new_alikushbaev_project
+![img](https://i.ibb.co/ZGM6KY1/2.png)
+![img](https://i.ibb.co/4jsPNBM/3.png)
+![img](https://i.ibb.co/2n3fzgx/4.png)
+![img](https://i.ibb.co/nswCH88/5.png)
+![img](https://i.ibb.co/zNjL1xB/6.png)
+# install packege and download:
+download this packege send_email_free-0.1-py3-none-any.whl
+install this packege this command pip install  send_email_free-0.1-py3-none-any.whl
 # Next:
-send_email_new_alikushbaev_project.send_email(message,copid_pasword,your account,to email,subject)
+from send_email_free import send_email
+send_email(message,copid_pasword,your account,To email,subject)
