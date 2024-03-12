@@ -18,8 +18,4 @@ from send_email_free import send_gmail_html
 send_email(message,copid_pasword,your account,To email,subject)
 # send html
 ![img](https://i.ibb.co/W5dbqMV/7.png)
-
-send_gmail_html("<code><h1>text</h1></code>"
-                "<code><h1>my new</h1></code>"
-                "<code><h3>program</h3></code>",copid_pasword,your account,To email,subject)
-
+![web](https://richtexteditor.com/imageuploads/638458023083787112-89caff61-9be6-46e8-865b-f6cc12b86d4b.txt)
