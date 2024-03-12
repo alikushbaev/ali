@@ -19,7 +19,7 @@ send_email(message,copid_pasword,your account,To email,subject)
 # send html
 ![img](https://i.ibb.co/W5dbqMV/7.png)
 
-send_gmail_html("<h1>text</h1>"
-                "<h1>my new</h1>"
-                "<h3>program</h3>",copid_pasword,your account,To email,subject)
+send_gmail_html("<h3><h1>text</h1></h3>"
+                "<h3><h1>my new</h1></h3>"
+                "<h3><h3>program</h3>/<h3>",copid_pasword,your account,To email,subject)
 
