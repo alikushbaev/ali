@@ -14,4 +14,6 @@ from send_email_free import  *
 # send text 
 send_email(message,copid_pasword,your account,To email,subject)
 # send html
+send_email("code"
+           "code",copid_pasword,your account,To email,subject)
 ![img](https://i.ibb.co/W5dbqMV/7.png)
