@@ -10,9 +10,10 @@
 # install packege 
 pip install send_email_free
 # Next:
-from send_email_free import  *
+pip install send-email-free-fast
 # send text 
 send_email(message,copid_pasword,your account,To email,subject)
+![img](https://i.ibb.co/tQZ35Rf/2024-04-30-144045.png)
 # send html
 send_email("code"
            "code",copid_pasword,your account,To email,subject)
